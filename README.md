@@ -22,6 +22,7 @@ The primary aim of this study is to develop a classification model that predicts
    conda env create --file requirements.txt
    ```
 
+
 ## Usage
 Launch `Python ML Labs project_Stroke Prediction.ipynb` in Jupyter Notebook.
 
@@ -35,8 +36,10 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
 
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
 ## Contact
 Project Link: [https://github.com/username/repository-name](https://github.com/username/repository-name)
