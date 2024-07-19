@@ -2,7 +2,7 @@
 
 
 ## Description
-A brief description of what this project does and who it's for.
+The primary aim of this study is to develop a classification model that predicts the likelihood of a patient having a stroke using a set of descriptors such as age, gender, and existing health conditions.
 
 
 ## Table of Contents
@@ -15,16 +15,15 @@ A brief description of what this project does and who it's for.
 ## Installation
 1. Clone the repository
    ```sh
-   git clone https://github.com/username/repository-name.git
-   npm install
-   npm start
+   git clone https://github.com/SamdGuizani/Python-ML-Labs-Project
+   ```
+2. Replicate the environment
+   ```sh
+   conda env create --file requirements.txt
    ```
 
-
 ## Usage
-To create a new to-do item, click on the "Add" button and fill out the form. Here is a screenshot of the application in action:
-
-![Screenshot](screenshot.png)
+Launch `Python ML Labs project_Stroke Prediction.ipynb` in Jupyter Notebook.
 
 
 ## Contributing
@@ -39,7 +38,5 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
 Project Link: [https://github.com/username/repository-name](https://github.com/username/repository-name)
